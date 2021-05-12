@@ -9,5 +9,5 @@ def speak(text):
     playsound.playsound(filename)
 
 
-print("Speaking...")
+print("Speaking....")
 speak("Hello Karan")
